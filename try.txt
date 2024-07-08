@@ -1,0 +1,46 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jaber's Portfolio</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <section class="header-section">
+      <header style="background: rgb(255, 248, 243)">
+        <div>
+          <nav style="display: flex; gap: 730px; margin: 0 30px">
+            <h2 style="font-size: 35px">
+              Jabe<span style="color: rgb(253, 110, 10)">r</span>'s
+            </h2>
+            <ul>
+              <li><a href="">Portfolio</a></li>
+              <li><a href="">Blog</a></li>
+              <li>
+                <a href=""><button id="hire-btn">Hire Me</button></a>
+              </li>
+            </ul>
+          </nav>
+
+          <div style="display: flex;" >
+            <img
+              class="developer"
+              src="./portfolio-resources/images/developer.png"
+              alt=""
+            />
+            <div>hey i am jaber</div>
+            <div>
+              <img
+                class="header-bg"
+                src="./portfolio-resources/images/header_bg.png"
+                alt=""
+              />
+              <img class="me-photo" src="./portfolio-resources/images/me.png" alt="">
+            </div>
+          </div>
+        </div>
+      </header>
+    </section>
+  </body>
+</html> -->
