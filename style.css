@@ -160,7 +160,7 @@ footer {
   background: rgb(255, 248, 243);
   /* background: yellowgreen; */
   width: 1000px;
-  padding: 230px 230px;
+  padding: 130px 230px;
   display: flex;
   gap: 50px;
   flex-wrap: wrap;
